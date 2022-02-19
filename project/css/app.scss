@@ -1,0 +1,11 @@
+$theme-colors: (
+  "primary": #1A129F,
+  'secondary': #7E76F9,
+  "danger": #FC6681,
+  "success": #88CB88,
+  'warning': #FFD037,
+);
+$border-radius-lg: 10rem;
+$border-radius-sm: 35px;
+$input-btn-padding-x: 1.75rem;
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
